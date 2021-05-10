@@ -13,7 +13,7 @@ namespace AskPriceWin.sales
 {
     public partial class AskPriceControl : UserControl
     {
- 
+        string regst = string.Empty;
         common cmn = new common();
 
         public string username = string.Empty;
